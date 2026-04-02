@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Georgia Nikolaou  
+### Computer Science Student at the University of Cyprus  
 
-<!--
-**gewNik0618/gewNik0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🎓 Studying Computer Science  
+- 💡 Interested in software engineering & modern application development  
+- 🌱 Currently learning full-stack development & real-world CS concepts  
+- 🎯 Goal: Work in the computer science industry  
+- 😄 Nickname: **jio**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Languages & Tools  
+**Java • JavaScript • C • C++ • Assembly • Git • GitHub**
+
+---
+
+## 🌍 Languages I Speak  
+🇬🇷 Greek (native)  
+🇬🇧 English (fluent)  
+🇮🇹 Italian (basic)  
+🇪🇸 Spanish (basic)  
+🇫🇷 French (basic)
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gewNic0618&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gewNic0618&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Achievements  
+![Trophies](https://github-profile-trophy.vercel.app/?username=gewNic0618&theme=onedark)
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)  
+📧 **Email:** YOUR_EMAIL_HERE
+
+---
+
+⭐️ _Thanks for visiting!_  
