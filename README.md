@@ -2,7 +2,7 @@
 ### 🎓 Computer Science Student @ University of Cyprus
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/Georgia Nikolou">
+  <a href="https://www.linkedin.com/in/georgia-nicolaou-60a595400">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gewnic0618@gmail.com">
