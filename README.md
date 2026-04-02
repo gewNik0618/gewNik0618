@@ -2,7 +2,7 @@
 ### 🎓 Computer Science Student @ University of Cyprus
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+  <a href="https://www.linkedin.com/in/Georgia Nikolou">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gewnic0618@gmail.com">
@@ -48,7 +48,6 @@
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gewNic0618&show_icons=true&theme=tokyonight&hide_border=true" alt="Georgia's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gewNic0618&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%" />
 </p>
 
 ### 🏆 Achievements
