@@ -39,8 +39,8 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)  
-📧 **Email:** YOUR_EMAIL_HERE
+[![LinkedIn](www.linkedin.com/in/)  
+📧 **Email:** gewnic0618@gmail.com
 
 ---
 
