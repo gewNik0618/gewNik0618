@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 💡 **Passion:** Software engineering & modern application development.
+- 💡 **Passion:** Passionate about Cyber Security, PenTesting, and Network Defense.y.
 - 🌱 **Learning:** Currently diving deep into Full-Stack development & real-world CS architecture.
 - 🎯 **Career Goal:** Transitioning from academia to the tech industry.
 - ⚡ **Fun Fact:** I'm a polyglot—well, both in coding languages and human ones!
