@@ -45,18 +45,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gewNic0618&show_icons=true&theme=tokyonight&hide_border=true" alt="Georgia's Stats" width="48%" />
-</p>
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gewNic0618&theme=onedark&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
 <p align="center">
   ⭐️ <i>"The best way to predict the future is to invent it."</i><br>
   <b>Thanks for stopping by!</b>
