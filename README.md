@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 💡 **Passion:** Passionate about Cyber Security, PenTesting, and Network Defense.y.
+- 💡 **Passion:** Passionate about Cyber Security, and Network Defensesy.
 - 🌱 **Learning:** Currently diving deep into Full-Stack development & real-world CS architecture.
 - 🎯 **Career Goal:** Transitioning from academia to the tech industry.
 - ⚡ **Fun Fact:** I'm a polyglot—well, both in coding languages and human ones!
