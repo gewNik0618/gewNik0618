@@ -39,9 +39,6 @@
 | :--- | :--- |
 | 🇬🇷 **Greek** | Native |
 | 🇬🇧 **English** | Fluent |
-| 🇮🇹 **Italian** | Basic |
-| 🇪🇸 **Spanish** | Basic |
-| 🇫🇷 **French** | Basic |
 
 ---
 
